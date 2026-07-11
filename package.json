@@ -1,0 +1,15 @@
+{
+  "name": "fybot-vc",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegram": "^2.22.2",
+    "tgcalls": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.11.5",
+    "dotenv": "^16.4.5"
+  }
+}
